@@ -1,0 +1,46 @@
+.td1 {
+    height: 600px;
+    background-color: #ffa630;
+}
+
+.td2 {
+    height: 600px;
+    width:100%;
+    background-color: #32322c;
+}
+
+.td3 {
+    height: 600px;
+    background-color: #003459;
+}
+.td4 {
+    height: 300px;
+    background-color: #011627;
+}
+.td5 {
+    height: 300px;
+    background-color: #fdfffc;
+}
+
+.classeUm {
+    background-color: rgb(202, 33, 33);
+    height: 180px;    
+    border-style: solid;
+    border-bottom: 2px;
+    border-color: #fdfffc;
+}
+.classeDois {
+    background-color: rgb(16, 205, 230);
+    height: 180px;
+    }
+.classeTres {
+    background-color: #15ddb8;
+    height: 180px;
+    }
+.classeQuatro{
+    background-color: #e71d36;
+    height: 180px;
+    }
+table{
+    width:100%;
+}
